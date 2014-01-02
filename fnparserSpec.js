@@ -1,0 +1,1 @@
+require('./test/trivial_fnSpec.js');

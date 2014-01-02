@@ -1,0 +1,17 @@
+{
+  "name": "fnparser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "fnparser.js",
+  "scripts": {
+    "test": "mocha fnparserSpec.js --reporter spec"
+  },
+  "repository": "https://github.com/franleplant/fn-parser.git",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~1.8.1"
+  }
+}
