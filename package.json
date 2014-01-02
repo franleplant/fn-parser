@@ -1,13 +1,13 @@
 {
   "name": "fnparser",
   "version": "0.0.0",
-  "description": "",
+  "description": "Javascript function parser utility",
   "main": "fnparser.js",
   "scripts": {
-    "test": "mocha fnparserSpec.js --reporter spec"
+    "test": "mocha test/test_bootstrap.js --reporter spec"
   },
   "repository": "https://github.com/franleplant/fn-parser.git",
-  "author": "",
+  "author": "franleplant@gmail.com",
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {},
